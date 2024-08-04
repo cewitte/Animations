@@ -6,3 +6,6 @@ https://www.hackingwithswift.com/books/ios-swiftui/animating-bindings
 
 ## explicit-animation-3d-effect branch
 https://www.hackingwithswift.com/books/ios-swiftui/creating-explicit-animations
+
+## animation-stack branch
+https://www.hackingwithswift.com/books/ios-swiftui/controlling-the-animation-stack
