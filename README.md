@@ -3,3 +3,6 @@ https://www.hackingwithswift.com/books/ios-swiftui/customizing-animations-in-swi
 
 ## stepper branch
 https://www.hackingwithswift.com/books/ios-swiftui/animating-bindings
+
+## explicit-animation-3d-effect branch
+https://www.hackingwithswift.com/books/ios-swiftui/creating-explicit-animations
