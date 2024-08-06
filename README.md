@@ -9,3 +9,6 @@ https://www.hackingwithswift.com/books/ios-swiftui/creating-explicit-animations
 
 ## animation-gestures branch
 https://www.hackingwithswift.com/books/ios-swiftui/animating-gestures
+
+## animation-gestures-continuation branch
+https://www.hackingwithswift.com/books/ios-swiftui/animating-gestures
