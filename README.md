@@ -15,3 +15,6 @@ https://www.hackingwithswift.com/books/ios-swiftui/animating-gestures
 
 ## showing-hiding-views branch
 https://www.hackingwithswift.com/books/ios-swiftui/showing-and-hiding-views-with-transitions
+
+## custom-transitions
+https://www.hackingwithswift.com/books/ios-swiftui/building-custom-transitions-using-viewmodifier
